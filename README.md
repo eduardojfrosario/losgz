@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div>
+  <img height=161 align=center src="https://github-readme-stats.vercel.app/api?username=losgz&theme=dark&hide_border=true&count_private=true" alt="General stats">
+  <img height=161 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=losgz&theme=dark&show_icons=true&hide_border=true&layout=compact&count_private=true" alt="Languague stats">
+</div>
 <!--
 **losgz/losgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
